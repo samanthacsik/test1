@@ -3,20 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "test1"
+  title: "Sam Shanny-Csik"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: resources.qmd
+        text: Resources
+      - blog.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: styles.scss
+    mainfont: Elms Sans
     toc: true
+    page-layout: full
 
 
 

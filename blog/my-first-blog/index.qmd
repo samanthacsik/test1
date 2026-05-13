@@ -1,0 +1,18 @@
+---
+title: "My First Blog Post"
+description: "My first ever blog post, creating with R-Ladies SB!"
+author: 
+  - name: Samantha Shanny-Csik
+    url: http://samanthacsik.github.io/
+    affiliation: R-Ladies Santa Barbara
+    affiliation-url: https://www.meetup.com/rladies-santa-barbara/
+date: 2026-05-13
+categories: [Quarto, R, R-Ladies]
+citation: 
+  url: http://samanthacsik.github.io/blog/my-first-blog-post/
+image: RLadies_hex.jpeg
+draft: true
+---
+
+Here is where I will start writing my actual blog post content...
+

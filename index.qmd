@@ -1,11 +1,18 @@
 ---
-title: "test1"
+#title: "Samantha Shanny-Csik"
+image: images/sam_cropped.jpg
+about:
+  template: jolla
+  image-shape: round
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/samanthacsik/
+      target: _blank
+    - text: GitHub
+      href: https://github.com/samanthacsik
+      target: _blank
+    - text: Email
+      href: mailto:scsik@ucsb.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi there! I’m Sam Shanny-Csik (pronounced “shan-knee chick”). Professionally, I love teaching data science skills, learning and implementing inclusive pedagogical approaches, and the communities that support both of those things. Outside of work, I’m an avid hiker, novice (but passionate) meal-maker, and an on-again-off-again book worm. Poke around to learn more about me and my work!

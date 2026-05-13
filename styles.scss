@@ -1,0 +1,17 @@
+/*-- scss:defaults --*/
+
+// Import Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Elms+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+// Colors
+$light-purple: #E7D1FF;
+$dark-purple: #27004D;
+$pink: #ff5b92;
+$gray: #3B3B3B;
+
+// Sass vars
+$body-bg: $light-purple; 
+$navbar-bg: $dark-purple;
+$navbar-hl: $pink; 
+$body-color: $gray;
+$link-color: $pink;
